@@ -1,45 +1,82 @@
-# PROJECT-DIRECTORY
+# PROJECT DIRECTORY
 
-## MYTHIC MOVEMENT
+**Michael Gaio** - Key GitHub Repositories
 
-## MICHAEL GAIO
+---
 
 ## MYTHIC SYSTEMS
-https://github.com/miquael/mythic-systems-website
-https://github.com/MythicSystems/Documents
-## SUPERSHAPE
-https://github.com/miquael/supershape
-## STRATEGY MAP
-https://github.com/miquael/strategy-map
+
+Core platform and ecosystem projects
+
+- **Website & Platform**
+
+  - https://github.com/miquael/mythic-systems-website
+  - https://github.com/MythicSystems/Documents
+
+- **Supershape**
+
+  - https://github.com/miquael/supershape
+
+- **Strategy Map**
+  - https://github.com/miquael/strategy-map
+
+---
 
 ## MYTHOS MVP
-https://github.com/miquael/mythos-mvp
 
-## DATATEMPLE
-## MYTHIC-AGENT-OS
-https://github.com/miquael/Mythic-Agent-OS
-## RZN
-https://github.com/miquael/resonance-protocol
+Minimum viable product development
+
+- https://github.com/miquael/mythos-mvp
+
+---
+
+## AGENT & PROTOCOL SYSTEMS
+
+- **Mythic Agent OS**
+
+  - https://github.com/miquael/Mythic-Agent-OS
+
+- **RZN (Resonance Protocol)**
+  - https://github.com/miquael/resonance-protocol
+
+---
 
 ## HOLOTORUS
-https://github.com/miquael/holotorus-legacy
-https://github.com/miquael/holotorus-3
 
-## 3D-GLOBE-viz
-https://github.com/miquael/3d-globe-viz
+3D visualization and modeling projects
 
-## GCP EXPLORER
-https://github.com/miquael/gcp-data-explorer
+- **Legacy Version**
 
-## MYSTIC SYSTEM
+  - https://github.com/miquael/holotorus-legacy
 
-## HYPERHIVE
+- **Version 3**
+  - https://github.com/miquael/holotorus-3
 
-## IMAGINFY
+---
 
-## MYTHOGRAPH
+## DATA VISUALIZATION
 
-## CT
+- **3D Globe Visualization**
 
-## BIRD SONG DV
-https://github.com/miquael/bird-song-dv
+  - https://github.com/miquael/3d-globe-viz
+
+- **GCP Data Explorer**
+
+  - https://github.com/miquael/gcp-data-explorer
+
+- **Bird Song Data Visualization**
+  - https://github.com/miquael/bird-song-dv
+
+---
+
+## UPCOMING PROJECTS
+
+_In development or planning phase_
+
+- **DataTemple**
+- **Mythic Movement**
+- **Mystic System**
+- **HyperHive**
+- **Imaginfy**
+- **Mythograph**
+- **CT**
