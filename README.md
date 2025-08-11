@@ -1,0 +1,28 @@
+# PROJECT-DIRECTORY
+
+## MYTHIC MOVEMENT
+
+## MICHAEL GAIO
+
+## MYTHIC SYSTEMS
+https://github.com/miquael/mythic-systems-website
+
+## MYTHOS
+
+## DATATEMPLE
+## AGENT-OS
+## RZN
+## HOLOTORUS
+## 3D-GLOBE
+## GCP
+
+## MYSTIC SYSTEM
+
+## HYPERHIVE
+
+## IMAGINFY
+
+## MYTHOGRAPH
+
+## CT
+
