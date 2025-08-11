@@ -1,60 +1,65 @@
 # PROJECT DIRECTORY
 
-**Michael Gaio** - Key GitHub Repositories
+---
+
+## MYTHIC MOVEMENT - ECOSYSTEM
+
+- https://github.com/miquael/MYTHIC-MOVEMENT
+- https://github.com/miquael/CYCLOPS
 
 ---
 
 ## MYTHIC SYSTEMS
 
-Core platform and ecosystem projects
+- **Platform**
 
-- **Website & Platform**
-
-  - https://github.com/miquael/mythic-systems-website
   - https://github.com/MythicSystems/Documents
 
-- **Supershape**
+- **Website**
 
+  - https://github.com/miquael/mythic-systems-website
   - https://github.com/miquael/supershape
 
 - **Strategy Map**
+
   - https://github.com/miquael/strategy-map
 
 ---
 
-## MYTHOS MVP
+## MYTHOS
 
-Minimum viable product development
+- **MVP**
 
-- https://github.com/miquael/mythos-mvp
-
----
-
-## AGENT & PROTOCOL SYSTEMS
+  - https://github.com/miquael/mythos-mvp
 
 - **Mythic Agent OS**
 
   - https://github.com/miquael/Mythic-Agent-OS
 
-- **RZN (Resonance Protocol)**
-  - https://github.com/miquael/resonance-protocol
-
 ---
 
-## HOLOTORUS
+## DATATEMPLE
 
-3D visualization and modeling projects
+- **MVP**
 
-- **Legacy Version**
+  - https://github.com/miquael/DataTemple
 
+- **RainbowSpace**
+
+  - https://github.com/miquael/Rainbow-Space-2
+
+- **Akasa**
+
+  - https://github.com/miquael/akasa
+
+- **HoloTorus**
+
+  - https://github.com/miquael/holotorus-3
   - https://github.com/miquael/holotorus-legacy
 
-- **Version 3**
-  - https://github.com/miquael/holotorus-3
+- **RZN (Resonance Protocol)**
 
----
-
-## DATA VISUALIZATION
+  - https://github.com/miquael/resonance-protocol
 
 - **3D Globe Visualization**
 
@@ -63,9 +68,44 @@ Minimum viable product development
 - **GCP Data Explorer**
 
   - https://github.com/miquael/gcp-data-explorer
+  - https://github.com/miquael/akasa/blob/master/GCP.js
+
+- **Misc**
+
+  - https://github.com/miquael/HOLOSYS
+  - https://github.com/miquael/DataTemple-legacy
+
+---
+
+## MICHAEL GAIO
+
+---
+
+## MYSTIC SYSTEM
+
+---
+
+## MYTHOGRAPH
+
+  - https://github.com/miquael/paper-blockchain
+
+  - https://github.com/miquael/pbc-precog
+
+---
+
+## MISC
 
 - **Bird Song Data Visualization**
+
   - https://github.com/miquael/bird-song-dv
+
+- **CT**
+
+  - https://github.com/miquael/Mythic-Systems-webvr
+
+- **Brand Proofs**
+
+  - https://github.com/miquael/BRAND-PROOFS
 
 ---
 
@@ -73,10 +113,14 @@ Minimum viable product development
 
 _In development or planning phase_
 
-- **DataTemple**
-- **Mythic Movement**
-- **Mystic System**
-- **HyperHive**
-- **Imaginfy**
-- **Mythograph**
-- **CT**
+## IMAGINIFY
+
+## HYPERHIVE
+
+---
+
+## RESOURCES
+
+https://github.com/miquael/Solidity-Elements-Collection
+
+---
