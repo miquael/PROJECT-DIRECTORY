@@ -28,13 +28,21 @@
 
 ## MYTHOS
 
-- **MVP**
+- **MythOS MVP**
 
   - https://github.com/miquael/mythos-mvp
 
 - **Mythic Agent OS**
 
   - https://github.com/miquael/Mythic-Agent-OS
+
+- **MythOS WorkBook**
+
+  - https://github.com/miquael/MythOS-WorkBook
+
+- **MythOS HC**
+
+  - https://github.com/miquael/MythOS-hc
 
 ---
 
@@ -43,6 +51,11 @@
 - **MVP**
 
   - https://github.com/miquael/DataTemple
+
+- **Mandapa Admin**
+
+  - https://github.com/miquael/mandapa-admin
+  - https://github.com/miquael/mandapa
 
 - **RainbowSpace**
 
@@ -56,6 +69,10 @@
 
   - https://github.com/miquael/holotorus-3
   - https://github.com/miquael/holotorus-legacy
+
+- **HoloBio**
+
+  - https://github.com/miquael/HoloBio
 
 - **RZN (Resonance Protocol)**
 
@@ -72,8 +89,11 @@
 
 - **Misc**
 
-  - https://github.com/miquael/HOLOSYS
   - https://github.com/miquael/DataTemple-legacy
+  - https://github.com/miquael/HOLOSYS
+  - https://github.com/miquael/HoloGene
+  - https://github.com/miquael/AION
+  - https://github.com/miquael/jalaka
 
 ---
 
@@ -94,6 +114,10 @@
 ---
 
 ## MISC
+
+- **Brand Proofs**
+
+- https://github.com/miquael/BRAND-PROOFS
 
 - **Bird Song Data Visualization**
 
