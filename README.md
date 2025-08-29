@@ -28,6 +28,14 @@
 
 ## MYTHOS
 
+- **MythOS**
+
+  - https://github.com/miquael/MythOS
+
+- **MythOS Organization Page**
+
+  - https://github.com/miquael/Myth-OS
+
 - **MythOS MVP**
 
   - https://github.com/miquael/mythos-mvp
@@ -40,7 +48,7 @@
 
   - https://github.com/miquael/MythOS-WorkBook
 
-- **MythOS HC**
+- **MythOS on Holochain**
 
   - https://github.com/miquael/MythOS-hc
 
@@ -48,7 +56,7 @@
 
 ## DATATEMPLE
 
-- **MVP**
+- **DataTemple**
 
   - https://github.com/miquael/DataTemple
 
