@@ -29,13 +29,13 @@
 
 ## MYTHOS
 
+- **MythOS Portal**
+
+  - https://github.com/MythicSystems/MythOS-Portal
+
 - **MythOS**
 
   - https://github.com/miquael/MythOS
-
-- **MythOS Organization Page**
-
-  - https://github.com/miquael/Myth-OS
 
 - **MythOS MVP**
 
@@ -52,6 +52,10 @@
 - **MythOS on Holochain**
 
   - https://github.com/miquael/MythOS-hc
+
+- **MythOS Organization Page**
+
+  - https://github.com/Myth-OS
 
 ---
 
