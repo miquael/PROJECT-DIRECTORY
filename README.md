@@ -2,11 +2,15 @@
 
 ---
 
-## MYTHIC MOVEMENT - ECOSYSTEM
+## MYTHIC ECOSYSTEM
+
+- **Mythic Movement**
 
  - https://github.com/miquael/MYTHIC-MOVEMENT
+
+- **Mythic Vault**
+
  - https://github.com/miquael/MYTHIC-VAULT
- - https://github.com/miquael/CYCLOPS
 
 ---
 
@@ -113,6 +117,8 @@
 ## MICHAEL GAIO
 
 https://github.com/miquael
+
+https://github.com/miquael/CYCLOPS
 
 ---
 
