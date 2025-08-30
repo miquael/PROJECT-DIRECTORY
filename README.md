@@ -8,11 +8,11 @@ A curated list of projects (both public and private).
 
 - **Mythic Movement**
 
- - https://github.com/miquael/MYTHIC-MOVEMENT
+  - https://github.com/miquael/MYTHIC-MOVEMENT
 
 - **Mythic Vault**
 
- - https://github.com/miquael/MYTHIC-VAULT
+  - https://github.com/miquael/MYTHIC-VAULT
 
 ---
 
@@ -146,7 +146,7 @@ A curated list of projects (both public and private).
 
 - **Brand Proofs**
 
-- https://github.com/miquael/BRAND-PROOFS
+  - https://github.com/miquael/BRAND-PROOFS
 
 - **Bird Song Data Visualization**
 
