@@ -122,9 +122,9 @@ A curated list of projects (both public and private).
 
 ## MICHAEL GAIO
 
-https://github.com/miquael
+  - https://github.com/miquael
 
-https://github.com/miquael/CYCLOPS
+  - https://github.com/miquael/CYCLOPS
 
 ---
 
@@ -170,6 +170,6 @@ _In development or planning phase_
 
 ## RESOURCES
 
-https://github.com/miquael/Solidity-Elements-Collection
+  - https://github.com/miquael/Solidity-Elements-Collection
 
 ---
