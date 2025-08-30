@@ -132,6 +132,8 @@ https://github.com/miquael/CYCLOPS
 
 ## MYTHOGRAPH
 
+  - https://github.com/miquael/MythoGraph
+
   - https://github.com/miquael/paper-blockchain
 
   - https://github.com/miquael/pbc-precog
