@@ -1,5 +1,7 @@
 # PROJECT DIRECTORY
 
+A curated list of projects (both public and private).
+
 ---
 
 ## MYTHIC ECOSYSTEM
@@ -153,10 +155,6 @@ https://github.com/miquael/CYCLOPS
 - **CT**
 
   - https://github.com/miquael/Mythic-Systems-webvr
-
-- **Brand Proofs**
-
-  - https://github.com/miquael/BRAND-PROOFS
 
 ---
 
