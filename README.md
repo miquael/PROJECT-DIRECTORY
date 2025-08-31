@@ -22,14 +22,18 @@ A curated list of projects (both public and private).
 
   - https://github.com/MythicSystems
 
-- **Platform**
+- **Mythic Systems Platform**
 
   - https://github.com/MythicSystems/Documents
 
-- **Website**
+- **Mythic Systems Website**
 
   - https://github.com/miquael/mythic-systems-website
   - https://github.com/miquael/supershape
+
+- **Mythic Systems WebVR**
+
+  - https://github.com/miquael/Mythic-Systems-webvr
 
 - **Strategy Map**
 
@@ -46,6 +50,10 @@ A curated list of projects (both public and private).
 - **MythOS**
 
   - https://github.com/miquael/MythOS
+
+- **MythOS Docs**
+
+  - https://github.com/MythicSystems/MythOS-Docs
 
 - **MythOS MVP**
 
@@ -74,6 +82,10 @@ A curated list of projects (both public and private).
 - **DataTemple**
 
   - https://github.com/miquael/DataTemple
+
+- **DataTemple Legacy App**
+
+  - https://github.com/miquael/DataTemple-legacy
 
 - **Mandapa Admin**
 
@@ -110,9 +122,8 @@ A curated list of projects (both public and private).
   - https://github.com/miquael/gcp-data-explorer
   - https://github.com/miquael/akasa/blob/master/GCP.js
 
-- **Misc**
+- **Other**
 
-  - https://github.com/miquael/DataTemple-legacy
   - https://github.com/miquael/HOLOSYS
   - https://github.com/miquael/HoloGene
   - https://github.com/miquael/AION
@@ -153,8 +164,6 @@ A curated list of projects (both public and private).
   - https://github.com/miquael/bird-song-dv
 
 - **CT**
-
-  - https://github.com/miquael/Mythic-Systems-webvr
 
 ---
 
