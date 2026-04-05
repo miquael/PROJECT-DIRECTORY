@@ -141,6 +141,10 @@ A curated list of projects (both public and private).
 
 ## MYSTIC SYSTEM
 
+  - https://github.com/miquael/mystic-system
+
+  - https://github.com/miquael/mystic-system-website
+
 ---
 
 ## MYTHOGRAPH
