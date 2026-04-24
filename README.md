@@ -1,6 +1,6 @@
 # PROJECT DIRECTORY
 
-A curated list of projects (both public and private).
+Central index for managing and organizing active development projects (both public and private).
 
 ---
 
